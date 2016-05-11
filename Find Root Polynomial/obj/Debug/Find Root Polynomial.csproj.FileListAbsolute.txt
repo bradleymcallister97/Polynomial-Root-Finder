@@ -1,0 +1,24 @@
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\bin\Debug\Find Root Polynomial.exe.config
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\bin\Debug\Find Root Polynomial.exe
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\bin\Debug\Find Root Polynomial.pdb
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.csprojResolveAssemblyReference.cache
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\MainWindow.g.cs
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\App.g.cs
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial_MarkupCompile.cache
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial_MarkupCompile.lref
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\MainWindow.baml
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.g.resources
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find_Root_Polynomial.Properties.Resources.resources
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.csproj.GenerateResource.Cache
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.exe
+c:\users\bradley.mcallister\documents\visual studio 2015\Projects\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.pdb
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\bin\Debug\Find Root Polynomial.exe.config
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.exe
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.pdb
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\MainWindow.g.cs
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\App.g.cs
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial_MarkupCompile.cache
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial_MarkupCompile.lref
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\MainWindow.baml
+C:\Users\Bradley\Downloads\Find Root Polynomial\Find Root Polynomial\Find Root Polynomial\obj\Debug\Find Root Polynomial.g.resources
